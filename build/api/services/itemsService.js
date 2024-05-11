@@ -16,7 +16,7 @@ exports.getProduct = exports.searchItems = void 0;
 const axios_1 = __importDefault(require("axios"));
 const author = {
     name: "Sebastian",
-    lastname: "Mosquera",
+    lastname: "Mosquera Valencia",
 };
 const searchItems = (query) => __awaiter(void 0, void 0, void 0, function* () {
     try {
